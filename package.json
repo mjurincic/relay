@@ -15,7 +15,8 @@
     "PATENTS",
     "README.md",
     "dist/",
-    "lib/"
+    "lib/",
+    "scripts/"
   ],
   "main": "lib/Relay.js",
   "repository": "facebook/relay",
