@@ -33,7 +33,7 @@
     "babel-runtime": "5.8.24",
     "fbjs": "^0.8.0-alpha.3",
     "react-static-container": "^1.0.0-alpha.1",    
-    "babel-relay-plugin": "file:./scripts/babel-relay-plugin"
+    "babel-relay-plugin": "file:./scripts/babel-relay-plugin/"
   },
   "peerDependencies": {
     "react": "^0.14.0"
