@@ -35,10 +35,10 @@
     "react-static-container": "^1.0.0-alpha.1"
   },
   "peerDependencies": {
-    "babel-relay-plugin": "0.7.3",
     "react": "^0.14.0"
   },
   "devDependencies": {
+    "babel-relay-plugin": "file:./scripts/babel-relay-plugin/",
     "babel": "^5.8.25",
     "babel-core": "^5.8.25",
     "babel-eslint": "^4.1.1",
