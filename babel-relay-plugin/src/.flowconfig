@@ -1,0 +1,16 @@
+[ignore]
+.*/__fixtures__/.*
+.*/__tests__/.*
+.*\.json
+
+[include]
+../node_modules/
+../../../node_modules/util/
+
+[libs]
+../interfaces
+
+[options]
+
+[version]
+0.22.0
