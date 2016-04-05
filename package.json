@@ -15,8 +15,7 @@
     "PATENTS",
     "README.md",
     "dist/",
-    "lib/",
-    "scripts/"
+    "lib/"
   ],
   "main": "lib/Relay.js",
   "repository": "facebook/relay",
@@ -32,10 +31,10 @@
   "dependencies": {
     "babel-runtime": "5.8.24",
     "fbjs": "^0.8.0-alpha.3",
-    "react-static-container": "^1.0.0-alpha.1",    
-    "babel-relay-plugin": "file:./scripts/babel-relay-plugin/"
+    "react-static-container": "^1.0.0-alpha.1"
   },
   "peerDependencies": {
+    "babel-relay-plugin": "0.7.3",
     "react": "^0.14.0"
   },
   "devDependencies": {
